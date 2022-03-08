@@ -1,0 +1,13 @@
+{
+  "name": "ipfsupload",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "browserslist": [
+    "> 5%"
+  ],
+  "dependencies": {
+    "ipfs-http-client": "^52.0.1",
+    "parcel-bundler": "^1.12.5"
+  }
+}
